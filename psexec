@@ -1,2 +1,4 @@
 #run cmd as system
 PSEXEC -i -s -d CMD
+#kill process
+taskkill /pid 1111
